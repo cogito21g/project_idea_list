@@ -2,7 +2,7 @@
 
 ## Index
 1. [Python](#python)
-2. [Javascript(#javascript)
+2. [Javascript](#javascript)
 
 ## [Python](./python.md)
 
