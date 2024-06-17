@@ -2,6 +2,7 @@
 
 ## Index
 1. [Python](#python)
+2. [Javascript(#javascript)
 
 ## [Python](./python.md)
 
@@ -84,7 +85,7 @@
 | 75   | 스마트 계약                   | 블록체인을 이용한 스마트 계약 시스템          | 스마트 계약 개념 이해, 블록체인 플랫폼 설정 및 스마트 계약 구현 |
 
 
-## Javascript 
+## [Javascript](./javascript.md)
 
 
 ## C Language
